@@ -1,5 +1,4 @@
 RegChecker
-
 RegChecker is a PowerShell script that scans for registry entries in the Windows Registry and displays information about installed software.
 
 Features
